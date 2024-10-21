@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dieguitorrr
 - 👀 I’m interested in becoming an AI developer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently developing LLM models, CNNs, DL and ML models. 
 - 💞️ I’m looking to collaborate on any AI related project
 - 📫 How to reach me dalonso.apg@gmail.com
 - 😄 Pronouns: He
