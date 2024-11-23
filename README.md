@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dieguitorrr
+- 👋 Hi, I’m Diego Alonso
 - 👀 I’m interested in becoming an AI developer
 - 🌱 I’m currently developing LLM models, CNNs, DL and ML models. 
 - 💞️ I’m looking to collaborate on any AI related project
